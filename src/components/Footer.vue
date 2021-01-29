@@ -40,13 +40,13 @@
           <div class=" text-center">
             <h3 class="text-light"><strong>Follow Us</strong></h3>
             <div class="text-center">
-              <a href="#" class="text-decoration-none link2 mx-2"
+              <a href="https://www.youtube.com/channel/UC_Ghy430NnuCLQl9BloXsBw" class="text-decoration-none link2 mx-2"
                 ><b-icon-youtube></b-icon-youtube
               ></a>
-              <a href="#" class="text-decoration-none link mx-2"
+              <a href="https://www.instagram.com/" class="text-decoration-none link mx-2"
                 ><b-icon-instagram></b-icon-instagram
               ></a>
-              <a href="#" class="text-decoration-none link mx-2"
+              <a href="https://www.facebook.com/mchriss.12" class="text-decoration-none link mx-2"
                 ><b-icon-facebook></b-icon-facebook
               ></a>
             </div>
