@@ -46,8 +46,8 @@
               >
                 <option value="0" selected>Select Author</option>
                 <option
-                  v-for="(author, index) in authors"
-                  :value="index + 1"
+                  v-for="author in authors"
+                  :value="author.id"
                   :key="author.id"
                 >
                   {{ author.author }}
@@ -64,8 +64,8 @@
               >
                 <option value="0" selected>Select Category</option>
                 <option
-                  v-for="(category, index) in categorys"
-                  :value="index + 1"
+                  v-for="category in categorys"
+                  :value="category.id"
                   :key="category.id"
                 >
                   {{ category.category }}
